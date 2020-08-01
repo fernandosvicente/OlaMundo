@@ -4,3 +4,6 @@
  Repositório criado durante uma aula no Curso em Video
  
  Essa linha foi alterada diretamente no site.
+ 
+ Essa linha foi feita no Linux Ubuntu
+ 
